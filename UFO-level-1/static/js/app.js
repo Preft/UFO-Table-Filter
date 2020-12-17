@@ -35,3 +35,6 @@ DisplayData(data);
 // Display Filtered data
 form.on("submit",filterItemDisplay);
 button.on("click", filterItemDisplay);
+
+
+
